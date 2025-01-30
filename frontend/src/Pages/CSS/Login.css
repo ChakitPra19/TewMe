@@ -4,6 +4,17 @@
     padding-top: 100px;
 }
 
+.login-remember-right:hover{
+    color: #1f2937;
+    transform: scale(1.02);
+    transition: all 0.2s ease;
+}
+.link:hover{
+    color: #1f2937;
+    transform: scale(1.02);
+    transition: all 0.2s ease;
+}
+
 .login-container{
     width: 580px;
     height: 600px;
